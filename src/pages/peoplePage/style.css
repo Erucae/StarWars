@@ -1,0 +1,7 @@
+.people-wrapper {
+    width: 30%;
+}
+.people-container {
+    display: flex;
+    /* justify-content: space-between; */
+}

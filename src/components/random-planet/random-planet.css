@@ -1,0 +1,36 @@
+.random-planet-wrapper {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    background-color: grey;
+    height: 250px;
+    margin-bottom: 25px;
+}
+.random-planet-wrapper > ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+}
+
+.random-planet-wrapper > ul > li {
+    margin-bottom: 10px;
+    line-break: normal;
+}
+
+.planet-name {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+.horizontal-line {
+   position: relative;
+   width: 100%;
+}
+
+.planet-photo-wrapper {
+
+    width: 200px;
+    height: 200px;
+}
+.planet-photo {
+    width: 100%;
+}

@@ -1,0 +1,7 @@
+.planets-list-wrapper {
+    width: 30%;
+}
+.planets-container {
+    display: flex;
+    /* justify-content: space-between; */
+}

@@ -1,0 +1,14 @@
+.header-wrapper {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.star-db {
+    margin-right: 30px;
+    font-size: 2em;
+}
+
+.reference {
+    margin-left: 30px;
+    color: green;
+}

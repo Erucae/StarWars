@@ -1,0 +1,7 @@
+.starships-list-wrapper {
+    width: 30%;
+}
+.starships-container {
+    display: flex;
+    /* justify-content: space-between; */
+}
